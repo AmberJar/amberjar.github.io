@@ -7,11 +7,7 @@
 
 # Site Settings
 title                    : "Pengcheng Fang"
-description              : "
-Dr. Fang's research lies at the intersection of computer vision and AI-driven applications. He works on multi-object tracking, generative models, and MRI image reconstruction and segmentation. 
-His interests also include multimodal learning and wildlife biometrics.
-
-"
+description              : "Focusing on motion generation, computer vision and multi-modality model"
 repository               : "AmberJar/amberjar.github.io"
 google_scholar_stats_use_cdn : true
 

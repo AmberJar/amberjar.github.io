@@ -38,7 +38,7 @@ Dr. Fang is currently engaged in several interdisciplinary research projects at 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</div><img src='images/hiresnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal</div><img src='images/hiresnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10638169)
@@ -49,7 +49,7 @@ Dr. Fang is currently engaged in several interdisciplinary research projects at 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</div><img src='images/mogo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/mogo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation](https://arxiv.org/pdf/2506.05952)
