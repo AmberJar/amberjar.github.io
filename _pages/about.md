@@ -17,42 +17,61 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Dr. Pengcheng Fang received his Bachelor's degree from Shanxi University in China, followed by a Master's degree from Lancaster University. He completed his PhD at the University of Southampton.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+After completing his master's degree, Dr. Fang worked in China as an algorithm engineer, focusing primarily on computer vision applications. He served as a research team lead at two publicly listed companies, where he led the development and deployment of several successful consumer-facing (C-end) and enterprise-level (B-end) AI projects. These real-world experiences provided him with deep insights into the practical challenges of applying machine learning at scale. Motivated by a strong interest in scientific research and innovation, he later resigned from industry and pursued a Ph.D. in the United Kingdom to further explore cutting-edge research in artificial intelligence.
 
+Dr. Fang is currently engaged in several interdisciplinary research projects at the intersection of artificial intelligence and real-world applications. His work focuses on:
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* Human motion generation, where he explores generative models and transformer-based architectures for producing realistic and controllable movements from textual or sensory inputs.
+
+* Multimodal foundation models, aiming to unify visual, textual, and structural data for improved perception, understanding, and reasoning across domains.
+
+* Multi-object tracking (MOT), particularly in complex and unconstrained environments, using deep tracking-by-detection methods and video transformers.
+
+* Wildlife biometrics, focusing on animal identification and behavior analysis using computer vision, with an emphasis on non-invasive recognition of species such as donkeys in natural settings.
+
+* Medical image reconstruction and segmentation, where he applies lightweight Mamba-based models and diffusion techniques to enhance MRI imaging and improve diagnostic accuracy.
+
+* His research integrates model efficiency, representation learning, and real-world deployment concerns, with applications ranging from intelligent surveillance to conservation and healthcare.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</div><img src='images/hiresnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10638169)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuxia Chen**, **Pengcheng Fang**, Xiaoling Zhong, Jianhui Yu, Xiaoming Zhang, Tianrui Li
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The paper "Hi‑ResNet: Edge Detail Enhancement for High‑Resolution Remote Sensing Segmentation" proposes a novel segmentation network tailored for high-resolution remote sensing images. It introduces a funnel module for high-res semantic extraction and a multi-branch Information Aggregation (IA) module to capture multi-scale object variations. Additionally, a Class-agnostic Edge Aware (CEA) loss is designed to enhance boundary accuracy. The method achieves strong performance on benchmarks like LoveDA, Potsdam, and Vaihingen.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</div><img src='images/mogo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation](https://arxiv.org/pdf/2506.05952)
+
+**Dongjie Fu**, **Tengjiao Sun**, **Pengcheng Fang**, Xiaohao Cai, Hansung Kim
+
+- The paper “MOGO: Residual Quantized Hierarchical Causal Transformer for High‑Quality and Real‑Time 3D Human Motion Generation” presents MOGO, an autoregressive transformer designed for efficient, on‑the‑fly 3D motion synthesis. It features residual quantization and a hierarchical causal structure to balance fidelity and real-time responsiveness. The framework achieves state-of-the-art motion quality while enabling streaming generation. It’s validated on benchmark datasets, demonstrating both high quality and low latency performance.
+</div>
+</div>
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07 - 2028.07 (now)*, PhD, University of Southampton, Southampton, UK.
+- *2019.01 - 2020.11*, Master, Lancaster University, Lancaster, UK.
+- *2014.09 - 2018.07*, Undergraduate, Shanxi University, Shanxi, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Events
+- *2024.07 - now*, Cooperated with The Isle of Wight Donkey Sanctuary on wildlife protection.
+- *2023.06*, Invited talk at Greater Bay Area Industrial Expo.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💻 Working Experiences
+- *2023.10 - 2024.03*, Thunder Software Technology Co., Ltd.
+- *2022.07 - 2023.10*, Chengdu Guoxing Aerospace Technology Co., Ltd.
+- *2021.03 - 2022.07*, NetThink Technology Group Co., Ltd.
