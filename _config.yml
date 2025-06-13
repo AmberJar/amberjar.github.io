@@ -8,12 +8,8 @@
 # Site Settings
 title                    : "Pengcheng Fang"
 description              : "
-Dr. Fang's research focuses on applying artificial intelligence to real-world problems. 
-He works on human motion generation using generative and transformer-based models, and develops multimodal foundation models that combine vision, language, and structural data. 
-His work in multi-object tracking tackles challenging environments using deep learning and video transformers.
-
-He also studies wildlife biometrics, especially non-invasive identification of animals like donkeys, and explores models for MRI reconstruction and segmentation in medical imaging. 
-His research emphasizes model efficiency, robust representation learning, and practical deployment in areas such as surveillance, conservation, and healthcare.
+Dr. Fang's research lies at the intersection of computer vision and AI-driven applications. He works on multi-object tracking, generative models, and MRI image reconstruction and segmentation. 
+His interests also include multimodal learning and wildlife biometrics.
 
 "
 repository               : "AmberJar/amberjar.github.io"
