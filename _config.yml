@@ -8,21 +8,16 @@
 # Site Settings
 title                    : "Pengcheng Fang"
 description              : "
-
----
-### **Current Research**
-
 Dr. Fang is currently engaged in several interdisciplinary research projects at the intersection of artificial intelligence and real-world applications. His work focuses on:
 
-* **Human motion generation**, where he explores generative models and transformer-based architectures for producing realistic and controllable movements from textual or sensory inputs.
-* **Multimodal foundation models**, aiming to unify visual, textual, and structural data for improved perception, understanding, and reasoning across domains.
-* **Multi-object tracking (MOT)**, particularly in complex and unconstrained environments, using deep tracking-by-detection methods and video transformers.
-* **Wildlife biometrics**, focusing on animal identification and behavior analysis using computer vision, with an emphasis on non-invasive recognition of species such as donkeys in natural settings.
-* **Medical image reconstruction and segmentation**, where he applies lightweight Mamba-based models and diffusion techniques to enhance MRI imaging and improve diagnostic accuracy.
+Human motion generation**, where he explores generative models and transformer-based architectures for producing realistic and controllable movements from textual or sensory inputs.
+Multimodal foundation models**, aiming to unify visual, textual, and structural data for improved perception, understanding, and reasoning across domains.
+Multi-object tracking (MOT)**, particularly in complex and unconstrained environments, using deep tracking-by-detection methods and video transformers.
+Wildlife biometrics**, focusing on animal identification and behavior analysis using computer vision, with an emphasis on non-invasive recognition of species such as donkeys in natural settings.
+Medical image reconstruction and segmentation**, where he applies lightweight Mamba-based models and diffusion techniques to enhance MRI imaging and improve diagnostic accuracy.
 
 His research integrates model efficiency, representation learning, and real-world deployment concerns, with applications ranging from intelligent surveillance to conservation and healthcare.
 
----
 "
 repository               : "AmberJar/amberjar.github.io"
 google_scholar_stats_use_cdn : true
