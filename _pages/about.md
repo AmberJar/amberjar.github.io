@@ -74,7 +74,7 @@ Mr. Fang is currently engaged in several interdisciplinary research projects at 
 
 ## 🛠 Projects
 
-### 🔹 *2023.10 – 2024.01* **Hitachi Rail｜Railway Fault Detection and Industrial Visual Inspection**
+### 🔹 *2023.10 – 2024.01* **Thunder Software Technology Co., Ltd.｜Railway Fault Detection and Industrial Visual Inspection**
 - Developed vision-based systems for comprehensive railway infrastructure monitoring in collaboration with Hitachi Rail.
 - Built a vehicle recognition and tracking module to monitor train entry and exit across key transit points.
 - Designed fault detection pipelines to identify potential mechanical anomalies on trains, including component wear and structural irregularities.
@@ -115,21 +115,21 @@ Mr. Fang is currently engaged in several interdisciplinary research projects at 
 
 ---
 
-### 🔹 *2021.10 – 2022.05* **China Mobile｜CAD Drawing Recognition and Auto-review System**
+### 🔹 *2021.10 – 2022.05* **NetThink Technology Group Co., Ltd.｜CAD Drawing Recognition and Auto-review System**
 - Recognized telecommunication symbols and cable routes in CAD blueprints using deep learning and OCR.
 - Built automatic auditing tools to validate engineering plans.
 - Streamlined the quality assurance process for engineering drawings.
 
 ---
 
-### 🔹 *2021.07 – 2021.12* **China Telecom｜Fiber Distribution Box Structure Recognition**
+### 🔹 *2021.07 – 2021.12* **NetThink Technology Group Co., Ltd.｜Fiber Distribution Box Structure Recognition**
 - Detected fiber layout, ports, and labels inside optical distribution boxes.
 - Built structural models for cable routing and fault diagnostics.
 - Integrated system into field inspection tools for telecom engineers.
 
 ---
 
-### 🔹 *2021.03 – 2021.07* **China Tobacco｜Knowledge Graph and GNN-based User Profiling**
+### 🔹 *2021.03 – 2021.07* **NetThink Technology Group Co., Ltd.｜Knowledge Graph and GNN-based User Profiling**
 - Constructed enterprise-level knowledge graphs connecting people, roles, and behaviors.
 - Designed GCN/GAT models for relation modeling and user profiling.
 - Supported applications in risk detection and personalized recommendation.
