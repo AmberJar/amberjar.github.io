@@ -45,7 +45,7 @@ Mr. Fang is currently engaged in several interdisciplinary research projects at 
 
 [Hi-ResNet: Edge Detail Enhancement for High-Resolution Remote Sensing Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10638169)
 
-**Yuxia Chen**, **Pengcheng Fang**<sup>*</sup>, Xiaoling Zhong, Jianhui Yu, Xiaoming Zhang, Tianrui Li
+Yuxia Chenx<sup>★</sup>, **Pengcheng Fang**<sup>★</sup>, Xiaoling Zhong, Jianhui Yu, Xiaoming Zhang, Tianrui Li
 
 - The paper "Hi‑ResNet: Edge Detail Enhancement for High‑Resolution Remote Sensing Segmentation" proposes a novel segmentation network tailored for high-resolution remote sensing images. It introduces a funnel module for high-res semantic extraction and a multi-branch Information Aggregation (IA) module to capture multi-scale object variations. Additionally, a Class-agnostic Edge Aware (CEA) loss is designed to enhance boundary accuracy. The method achieves strong performance on benchmarks like LoveDA, Potsdam, and Vaihingen.
 </div>
@@ -56,7 +56,7 @@ Mr. Fang is currently engaged in several interdisciplinary research projects at 
 
 [MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation](https://arxiv.org/pdf/2506.05952)
 
-**Dongjie Fu**, **Tengjiao Sun**, **Pengcheng Fang**, Xiaohao Cai, Hansung Kim
+Dongjie Fu<sup>★</sup>, Tengjiao Sun<sup>★</sup>, **Pengcheng Fang**<sup>★</sup>, Xiaohao Cai, Hansung Kim
 
 - The paper “MOGO: Residual Quantized Hierarchical Causal Transformer for High‑Quality and Real‑Time 3D Human Motion Generation” presents MOGO, an autoregressive transformer designed for efficient, on‑the‑fly 3D motion synthesis. It features residual quantization and a hierarchical causal structure to balance fidelity and real-time responsiveness. The framework achieves state-of-the-art motion quality while enabling streaming generation. It’s validated on benchmark datasets, demonstrating both high quality and low latency performance.
 </div>
