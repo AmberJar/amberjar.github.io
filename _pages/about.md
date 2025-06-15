@@ -19,7 +19,8 @@ redirect_from:
 
 # 🧑‍ About Me 
 
-Mr. Pengcheng Fang received his Bachelor's degree from Shanxi University in China, followed by a Master's degree from Lancaster University. He completed his PhD at the University of Southampton.
+Mr. Pengcheng Fang received his Bachelor's degree from Shanxi University in China, followed by a Master's degree from Lancaster University. He is a PhD candidate at the University of Southampton, supervised by [Prof. Xiaohao Cai](He is a PhD candidate at the University of Southampton, supervised by [Prof. Xiaohao Cai](https://xiaohaocai.netlify.app/) and [Dr. Jianshi](https://www.southampton.ac.uk/people/5x96vy/doctor-jian-shi).
+
 
 After completing his master's degree, Dr. Fang worked in China as an algorithm engineer, focusing primarily on computer vision applications. He served as a research team lead at two publicly listed companies, where he led the development and deployment of several successful consumer-facing (C-end) and enterprise-level (B-end) AI projects. These real-world experiences provided him with deep insights into the practical challenges of applying machine learning at scale. Motivated by a strong interest in scientific research and innovation, he later resigned from industry and pursued a Ph.D. in the United Kingdom to further explore cutting-edge research in artificial intelligence.
 
