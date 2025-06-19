@@ -39,7 +39,7 @@ Mr. Fang is currently engaged in several interdisciplinary research projects at 
 * His research integrates model efficiency, representation learning, and real-world deployment concerns, with applications ranging from intelligent surveillance to conservation and healthcare.
 
 # ✨ News 
-- 🔥 **[2025-06-19] Breaking News**: Our AI-powered donkey recognition project has been featured on <img src="images/bbc_black.svg" alt="BBC Logo" width="18"/>[BBC News](https://www.bbc.co.uk/news/articles/cgrxjd1l2p1o). Our GitHub and dataset will be open-sourced soon.
+- 🔥 **[2025-06-19] Breaking News**: Our AI-powered donkey recognition project has been featured on <img src="images/bbc_black.svg" alt="BBC Logo" width="32"/>[BBC News](https://www.bbc.co.uk/news/articles/cgrxjd1l2p1o). Our GitHub and dataset will be open-sourced soon.
 - 🔥 **[2025-06-03]**, Our motion generation project [MOGO](https://github.com/MiRECoFu/Mogo) is now open-source on GitHub! 
 - ✅ **[2024-09-03]**, Our remote-sensing segmentation project [Hi-ResNet](https://github.com/AmberJar/Prior) is now open-source on GitHub! 
 
@@ -85,7 +85,7 @@ Dongjie Fu<sup>★</sup>, Tengjiao Sun<sup>★</sup>, **Pengcheng Fang**<sup>★
 - Integrated motion analysis and pose estimation to monitor health indicators and behavioral anomalies, enabling proactive welfare management.
 - Supported ethical and environmentally conscious AI deployment through offline inference and minimal equipment footprint.
 - Facilitated international collaboration on animal welfare technologies and aligned with global conservation goals by planning open access to the dataset and models.
-- 📢 The project reflects a strong intersection of **applied AI**, **wildlife protection**, and **academic support**, and was recently featured in <img src="images/bbc_black.svg" alt="BBC Logo" width="18"/>[BBC News](https://www.bbc.co.uk/news/articles/cgrxjd1l2p1o).
+- 📢 The project reflects a strong intersection of **applied AI**, **wildlife protection**, and **academic support**, and was recently featured in <img src="images/bbc_black.svg" alt="BBC Logo" width="32"/>[BBC News](https://www.bbc.co.uk/news/articles/cgrxjd1l2p1o).
 
 
 ### 🔹 *2023.10 – 2024.01* **Thunder Software Technology Co., Ltd.｜Railway Fault Detection and Industrial Visual Inspection**
