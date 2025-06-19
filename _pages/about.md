@@ -138,6 +138,6 @@ Dongjie Fu<sup>★</sup>, Tengjiao Sun<sup>★</sup>, **Pengcheng Fang**<sup>★
 
 
 # 💻 Working Experiences
-- *2023.10 - 2024.03*, Thunder Software Technology Co., Ltd.
-- *2022.07 - 2023.10*, Chengdu Guoxing Aerospace Technology Co., Ltd.
-- *2021.03 - 2022.07*, NetThink Technology Group Co., Ltd.
+- *2023.10 - 2024.03*, Thunder Software Technology.
+- *2022.07 - 2023.10*, Chengdu Guoxing Aerospace Technology.
+- *2021.03 - 2022.07*, NetThink Technology Group.
