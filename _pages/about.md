@@ -38,6 +38,10 @@ Mr. Fang is currently engaged in several interdisciplinary research projects at 
 
 * His research integrates model efficiency, representation learning, and real-world deployment concerns, with applications ranging from intelligent surveillance to conservation and healthcare.
 
+# ✨ News 
+- 🔥 **[2025-06-19] Breaking News**: Our AI-powered donkey recognition project has been featured on 📰 [BBC News](https://www.bbc.co.uk/news/articles/cgrxjd1l2p1o). Our GitHub and dataset will be open-sourced soon.
+- 🔥 **[2025-06-03]**, Our motion generation project [MOGO](https://github.com/MiRECoFu/Mogo) is now open-source on GitHub! 
+- ✅ **[2024-09-03]**, Our remote-sensing segmentation project [Hi-ResNet](https://github.com/AmberJar/Prior) is now open-source on GitHub! 
 
 # 📝 Publications 
 
@@ -74,6 +78,15 @@ Dongjie Fu<sup>★</sup>, Tengjiao Sun<sup>★</sup>, **Pengcheng Fang**<sup>★
 - *2023.06*, Invited talk at Greater Bay Area Industrial Expo.
 
 ## 🛠 Projects
+### 🔹 *2024.08 – now* **Isle of Wight Donkey Sanctuary & International Partners｜AI for Donkey Biometrics and Conservation**
+- Partnered with the **Isle of Wight Donkey Sanctuary (UK)** and a **Canadian animal welfare organization** to develop an AI-based donkey identification and behavior monitoring system.
+- Designed a lightweight, non-invasive biometric recognition pipeline using facial and morphological features for long-term tracking in sanctuary environments.
+- Collected and curated a diverse, real-world donkey dataset under varying environmental conditions to support research in animal biometrics and AI robustness.
+- Integrated motion analysis and pose estimation to monitor health indicators and behavioral anomalies, enabling proactive welfare management.
+- Supported ethical and environmentally conscious AI deployment through offline inference and minimal equipment footprint.
+- Facilitated international collaboration on animal welfare technologies and aligned with global conservation goals by planning open access to the dataset and models.
+- 📢 The project reflects a strong intersection of **applied AI**, **wildlife protection**, and **academic support**, and was recently featured in 📰 [BBC News](https://www.bbc.co.uk/news/articles/cgrxjd1l2p1o).
+
 
 ### 🔹 *2023.10 – 2024.01* **Thunder Software Technology Co., Ltd.｜Railway Fault Detection and Industrial Visual Inspection**
 - Developed vision-based systems for comprehensive railway infrastructure monitoring in collaboration with Hitachi Rail.
